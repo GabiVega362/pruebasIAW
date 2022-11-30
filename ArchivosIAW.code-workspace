@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../1Aval_Proxecto_v1_Grupo8"
+		}
+	],
+	"settings": {
+		"editor.autoClosingBrackets": "always",
+		"liveServer.settings.multiRootWorkspaceName": "1Aval_Proxecto_v1_Grupo8"
+	}
+}
